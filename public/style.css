@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(155, 209, 255);
+
+}
+.btn1{
+    box-shadow: 2px 2px 4px;
+    margin: 3px;
+    background-color: #fff;
+   border: 1px solid white;
+   width: 90px;
+   height: 28px;
+   margin-top: 10px;
+   margin-bottom: 10px;
+   
+}
+.wrap{
+    background-color: white;    
+    text-align: center;
+    width: 350px;
+    margin: 0 auto;
+    margin-top: 50px;
+    box-shadow: 1px 2px 2px;
+    
+}
+#todo-item{
+    height: 30px;
+    width: 300px;
+    border: 1px solid white;
+    box-shadow: 1px 1px rgb(255, 138, 101);
+}
